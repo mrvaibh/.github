@@ -1,12 +1,15 @@
 ## Hi there 👋
 
-<!--
+Welcome to heaven ☁️
 
-**Here are some ideas to get you started:**
+**Here are some words:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ - 🙋‍♀️ A short glimpse - I created this organization to manage some of my personal as well as public repos efficiently.
+ - 🌈 Contribution guidelines - Write neat code. add a space after = or comment. Use space or tabs, really doesn't matter.
+ - 👩‍💻 Useful resources - read the docs
+ - 🍿 Fun facts - A crocodile cannot stick its tongue out.
+ - 🍿 Fun facts 2 - You didn't expected that, did you?
+ - 🍿❌ Non-Fun facts - I have ADHD
+ - 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+But on a serious note-- I love open-source and I'm trying my best to move the community further ❤️
